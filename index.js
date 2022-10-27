@@ -5,6 +5,9 @@ const func = () => {
          win: 'win',
      };
      return(fu.win);
+     
+     console.log("Тест");
+     // Тут будет конфликт
     
 };
 const func1 = () => {
