@@ -5,6 +5,7 @@ const func = () => {
          win: 'win',
      };
      return(fu.win);
+     console.log('test')
     
 };
 const func1 = () => {
